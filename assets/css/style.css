@@ -1,0 +1,52 @@
+body{
+    background-color: #FFFFFF;
+
+}
+.logo {
+    width: 75%;
+    height: auto;
+}
+.nav-item{
+    margin-left: 30px;
+}
+a:hover {
+    background-color: #563D7C;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    cursor: pointer;
+}
+label{
+    margin-left: 10px;
+}
+.centered {
+    position: absolute;
+    top: 6%;
+    left: 50%;
+    transform: translate(-50%, -6%);
+    color: #EEEEEE;
+}
+h1{
+    text-shadow: 2px 2px #303030;
+    font-size:4vw;
+}
+h2{
+    text-shadow: 1px 1px #202020;
+    font-size:4vw;
+}
+.jumbotron{
+    margin-top:40px;
+    width:80%;
+    padding:10px;
+    min-width: 250px;
+}
+.bigTitle{
+    margin-top:40px;
+    margin-bottom: 40px;
+}
+.legend{
+    background-color:#E9ECEF;
+}
+
+
+
+
